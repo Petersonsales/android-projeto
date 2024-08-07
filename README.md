@@ -13,5 +13,6 @@
     <img  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <p>Cascading Style Sheets</p>
 </div>
 
+<<<<<<< HEAD
 <img  src="assets/android.png" alt="Projeto cuncluído">
 
